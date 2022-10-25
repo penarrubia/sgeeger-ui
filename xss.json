@@ -1,8 +1,8 @@
 {
-"url": "https://raw.githubusercontent.com/carlosalbertotuma/swagger-ui/main/xss.yaml",
+"url": "https://raw.githubusercontent.com/penarrubia/swegger-ui/main/xss.yaml",
 "urls": [
 {
-"url": "https://raw.githubusercontent.com/carlosalbertotuma/swagger-ui/main/xss.yaml",
+"url": "https://raw.githubusercontent.com/penarrubia/swegger-ui/main/xss.yaml",
 "name": "Foo"
 }
 ]
